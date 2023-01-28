@@ -1,6 +1,18 @@
-main {
+body {
   width: 80%;
   margin: 80px auto;
+}
+
+header {
+  width: 100%;
+}
+
+main {
+  width: 80%;
+}
+
+footer {
+  width: 100%;
 }
 
 article {
